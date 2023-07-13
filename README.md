@@ -1,4 +1,6 @@
 # AI-CSE3002
+![image](https://github.com/Rajkanwars15/AI-CSE3002/assets/89787756/72dc1a2f-f06c-4719-899c-98900f7f0687)
+
 ## Lab Record
 
 ## Tic Tac Toe Problem
@@ -7,6 +9,10 @@
 
 > Rules of the Game
  The game is to be played between two people (in this program between HUMAN and COMPUTER). • One of the player chooses ‘O’ and the other ‘X’to mark their respective cells. • The game starts with one of the players and the game ends when one of the players has one whole row/ column/ diagonal filled with his/her respective character (‘O’or ‘X’). • If no one wins, then the game is said to be draw
+
+![image](https://github.com/Rajkanwars15/AI-CSE3002/assets/89787756/27ea1be3-c1d5-444d-b41a-0a0f75f17476)
+
+
 ### Complexities
 | function          | Time             | Space |
 |-------------------|------------------| ----- |
@@ -29,6 +35,9 @@
 **15 June 2023**
 > Write a program to solve production system(Water Jug) problem
 
+![image](https://github.com/Rajkanwars15/AI-CSE3002/assets/89787756/7b234965-3ec1-4254-9d6f-b7653cea1de6)
+
+
 ### Complexities
 | function         | Time         | Space |
 |------------------|--------------|-------|
@@ -38,6 +47,9 @@ To explore and store all possible states (jug1 + 1) x (jug2 + 1) iterations.
 ## NQueens
 **22 June 2023**
 > Write a program to solve 8-Queens problem with reduced number of moves
+
+![image](https://github.com/Rajkanwars15/AI-CSE3002/assets/89787756/38411398-9aa1-46ef-9650-6972753dd050)
+
 
 ### Complexities
 | function         | Time  | Space |
@@ -53,6 +65,8 @@ The constant sum in every row, column and diagonal is called the magic constant 
 M = n(n^2+1)/2
 For normal magic squares of order n = 3, 4, 5, ...,
 the magic constants are: 15, 34, 65, 111, 175, 260, ...
+
+![image-removebg-preview](https://github.com/Rajkanwars15/AI-CSE3002/assets/89787756/22691cef-6e76-4ceb-a835-75f6f635eb83)
 
 ### Complexities
 | function        | Time             | Space |
