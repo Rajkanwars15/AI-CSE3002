@@ -3,7 +3,7 @@
 
 ## Lab Record
 
-## Tic Tac Toe Problem
+## [Tic Tac Toe Problem](tictactoe.py)
 **1 June 2023**
 > Write a program to solve Tic-Tac-toe problem
 
@@ -21,7 +21,7 @@
 | check_game_over() | O(n)             | O(n) |
 | play_game()       | O(n<sup>2</sup>) | O(n) |
 
-## BFS & DFS
+## [BFS & DFS](bfsdfs.py)
 **8 June 2023**
 > Compare Breadth First Search and Depth First Search for the given set of elements.
 
@@ -31,7 +31,7 @@
 | BFS      | O(V + E) | O(V)  |
 | DFS      | O(V + E) | O(V)  |
 
-## Water Jug
+## [Water Jug](waterjug.py)
 **15 June 2023**
 > Write a program to solve production system(Water Jug) problem
 
@@ -44,7 +44,7 @@
 | waterJugSolver() | O(jug1*jug2) | O(jug1*jug2)  |
 To explore and store all possible states (jug1 + 1) x (jug2 + 1) iterations.
 
-## NQueens
+## [N-Queens](nqueen.py)
 **22 June 2023**
 > Write a program to solve 8-Queens problem with reduced number of moves
 
@@ -56,7 +56,7 @@ To explore and store all possible states (jug1 + 1) x (jug2 + 1) iterations.
 |------------------|-------|-------|
 | n_queens() | O(N!) | O(N)  |
 
-## Magic Square
+## [Magic Square](magicSquare.py)
 **13 July 2023**
 > Write a program to solve Tic-Tac-toe problem, implement as User versus Computer. Tic-Tac-toe
 
@@ -75,3 +75,18 @@ the magic constants are: 15, 34, 65, 111, 175, 260, ...
 | take_turn()     | O(n)             | O(n) |
 | heck_game_over() | O(n)             | O(n) |
 | play_game()     | O(n<sup>2</sup>) | O(n) |
+
+## [Map Coloring](mapColoring.py)
+**20 July 2023**
+> Implement constraint satisfaction through map colouring problem.
+
+![](/Users/raj/Downloads/colorful.png)
+
+### Complexities
+| function            | Time             | Space |
+|---------------------|------------------|-------|
+| is_valid_assignment() | O(m)             | O(1)  |
+| map_coloring()      | O(m<sup>n</sup>) | O(n)  |
+| overall             | O(m<sup>n</sup>) | O(n)  |
+m -> average number of neighboring regions for each node </br>
+n -> number of regions
