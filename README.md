@@ -80,7 +80,8 @@ the magic constants are: 15, 34, 65, 111, 175, 260, ...
 **20 July 2023**
 > Implement constraint satisfaction through map colouring problem.
 
-![](/Users/raj/Downloads/colorful.png)
+![colorful](https://github.com/Rajkanwars15/AI-CSE3002/assets/89787756/3437b24b-4a3b-42f8-bbf0-08669bacd607)
+
 
 ### Complexities
 | function            | Time             | Space |
