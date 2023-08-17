@@ -8,7 +8,7 @@ def is_valid_assignment(region, color, assignment, graph):
     return True
 
 def map_coloring(graph, colors, assignment={}):
-    # Base case: if all regions have been assigned colors, return the assignment
+    # if all regions have been assigned colors, return the assignment
     if len(assignment) == len(graph):
         return assignment
 
